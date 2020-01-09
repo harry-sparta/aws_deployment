@@ -4,4 +4,4 @@
 
 ## Running code on Jenkins
 
-## Run code on AWS
+## Securely copy the code and deploy it on a live machine on aws
