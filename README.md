@@ -27,3 +27,4 @@ test 9
 
 Developer 2:
 test D1 - check if bash push triggers jenkins server to run test
+test D2 - check
