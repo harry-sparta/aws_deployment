@@ -24,4 +24,6 @@ test 7
 test 8
 
 test 9
-Port 3000 working now
+
+Developer 2:
+test D1 - check if bash push triggers jenkins server to run test
