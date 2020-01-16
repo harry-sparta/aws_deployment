@@ -29,3 +29,4 @@ Port 3000 working now
 Developer branch
 test d1 - to see if github hook works on aws_instance (own vpc)
 test d2 - see if jenkings is triggered
+test d3 - see if re-initialisation works
